@@ -18,7 +18,7 @@ int main()
     constexpr int64_t numInputElements = numChannels * height * width;
 
 
-    const std::string imageFile = "C:\\Users\\tamin\\source\\repos\\onnxruntime_test\\onnxruntime_test\\assets\\dog.png";
+    const std::string imageFile = "C:\\Users\\tamin\\source\\repos\\onnxruntime_test\\onnxruntime_test\\assets\\kitten.jpg";
     const std::string labelFile = "C:\\Users\\tamin\\source\\repos\\onnxruntime_test\\onnxruntime_test\\assets\\imagenet_classes.txt";
     auto modelPath = L"C:\\Users\\tamin\\source\\repos\\onnxruntime_test\\onnxruntime_test\\assets\\resnet50v2.onnx";
 

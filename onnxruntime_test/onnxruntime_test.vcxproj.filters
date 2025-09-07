@@ -37,6 +37,9 @@
     <Image Include="assets\dog.png">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="assets\kitten.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <Text Include="assets\imagenet_classes.txt" />
